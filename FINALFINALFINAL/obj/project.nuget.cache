@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "ieGziJ6nKZ4=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\EJSClaudio\\source\\repos\\FINALFINALFINAL\\finalprojbackup.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\EJSClaudio\\.nuget\\packages\\spectre.console\\0.49.1\\spectre.console.0.49.1.nupkg.sha512",
+    "C:\\Users\\EJSClaudio\\.nuget\\packages\\system.diagnostics.eventlog\\9.0.0\\system.diagnostics.eventlog.9.0.0.nupkg.sha512",
+    "C:\\Users\\EJSClaudio\\.nuget\\packages\\system.serviceprocess.servicecontroller\\9.0.0\\system.serviceprocess.servicecontroller.9.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

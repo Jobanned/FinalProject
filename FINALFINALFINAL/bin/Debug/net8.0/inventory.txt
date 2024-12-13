@@ -1,0 +1,7 @@
+Grower,100,2000,Island Feeds Mill
+Integra-1000,200,900,EJ GameFowl
+Booster,250,2500,Island Feeds Mill
+Finisher,100,1500,Island Feeds Mill
+Starter,100,1200,Island Feeds Mill
+B-meg,500,2000,Cebu B-meg Feed Plant
+Chick Booster,200,900,EJ GameFowl
